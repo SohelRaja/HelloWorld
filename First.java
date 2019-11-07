@@ -3,6 +3,5 @@ class First{
 		int num;
 		num=100;
 		System.out.println("this is num"+num);
-
 	}
 }
